@@ -4,6 +4,6 @@
 `npx create-react-app react-start`
 
 # Run newly created react app
-` -> Go to the project directory; in my case react-start folder`
-` -> Open your terminal`
-` -> npm start`
+` -> Go to the project directory; in my case react-start folder`<br/>
+` -> Open your terminal`<br/>
+` -> npm start`<br/>
